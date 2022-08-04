@@ -8,4 +8,6 @@
 >
 > 🌱 I'm currently available to collaborate on front-end focused projects utilizing React.
 
+[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamomiletay)](https://github.com/chamomiletay/github-readme-stats)
+
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/tay-lee/) or check out my [portfolio!](https://chamomiletay.com)
