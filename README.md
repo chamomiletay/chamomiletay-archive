@@ -10,7 +10,7 @@
 
 
 #### 🌟 Most Recent Project 🌟
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamomiletay&repo=capsule-frontend&theme=rose_pine)](https://github.com/chamomiletay/capsule-frontend)
+[![Taylor's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamomiletay&repo=capsule-frontend&theme=rose_pine)](https://github.com/chamomiletay/capsule-frontend)
 
 
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/tay-lee/) or check out my [portfolio!](https://chamomiletay.com)
