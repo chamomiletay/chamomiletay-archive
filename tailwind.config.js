@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {},
+      fontFamily: {
+        'nanum-gothic': ['Nanum Gothic', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }

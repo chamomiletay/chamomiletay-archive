@@ -6,7 +6,7 @@
 > I'm Taylor, and I enjoy curating cozy and inviting spaces in tech!
 > When I'm not sitting in front of code, you can find me making digital illustrations, enjoying games, or hitting up local bubble tea shops.
 >
-> 🌱 I'm currently available to collaborate on front-end focused projects utilizing React.
+> 🌱 I'm currently available to collaborate on front-end focused projects!
 
 
 #### 🌟 Most Recent Project 🌟
