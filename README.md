@@ -8,8 +8,9 @@
 >
 > 🌱 I'm currently available to collaborate on front-end focused projects utilizing React.
 
+
+#### 🌟 Most Recent Project 🌟
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamomiletay&repo=capsule-frontend&theme=rose_pine)](https://github.com/chamomiletay/capsule-frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamomiletay&repo=capsule-backend&theme=rose_pine)](https://github.com/chamomiletay/capsule-backend)
 
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/tay-lee/) or check out my [portfolio!](https://chamomiletay.com)
