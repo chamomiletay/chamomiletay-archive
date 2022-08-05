@@ -17,11 +17,11 @@ const About = () => {
           </div>
 
           <div>
-              <h3 className='pt-4 text-2xl font-semibold font-nanum-gothic text-teal-400'>&#123; <span className='text-black italic'>Hello!</span> &#125;</h3>
-              <p className='pb-4 text-lg font-m-plus-rounded italic text-slate-500'>湖にちわ</p>
+              <h3 className='pt-4 pb-2 text-2xl font-semibold font-space-mono text-rose-400'>&#123; <span className='text-black italic text-rose-800'>Hello!</span> &#125;</h3>
+              <p className='pb-4 text-lg font-m-plus-rounded font-semibold italic text-slate-400'>湖にちわ。</p>
 
               
-              <p className='px-24 py-4'>
+              <p className='px-24 py-2'>
                 " I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics. I take pride in quickly adapting to new environments, engaging in storytelling, and ideating warm and inviting interactive spaces while engaging my audience. My drive to curate more inclusive and accessible spaces is evident in every application I build. "
               </p>
 
