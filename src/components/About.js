@@ -17,11 +17,12 @@ const About = () => {
           </div>
 
           <div>
-              <h3 className='pt-4 text-2xl m-plus-rounded italic'>Hello!</h3>
-              <p className='pb-4 text-lg m-plus-rounded italic text-slate-500'>湖にちわ</p>
+              <h3 className='pt-4 text-2xl font-semibold font-nanum-gothic text-teal-400'>&#123; <span className='text-black italic'>Hello!</span> &#125;</h3>
+              <p className='pb-4 text-lg font-m-plus-rounded italic text-slate-500'>湖にちわ</p>
 
+              
               <p className='px-24'>
-                I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics. I take pride in quickly adapting to new environments, engaging in storytelling, and ideating warm and inviting interactive spaces while engaging my audience. My drive to curate more inclusive and accessible spaces is evident in every application I build.
+                " I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics. I take pride in quickly adapting to new environments, engaging in storytelling, and ideating warm and inviting interactive spaces while engaging my audience. My drive to curate more inclusive and accessible spaces is evident in every application I build. "
               </p>
 
           </div>
