@@ -7,7 +7,10 @@ module.exports = {
     extend: {
       backgroundImage: {},
       fontFamily: {
-        'nanum-gothic': ['Nanum Gothic', 'sans-serif']
+        'nanum-gothic': ['Nanum Gothic', 'sans-serif'],
+        'noto-sans-jp': ['Noto Sans JP', 'sans-serif'],
+        'noto-serif-jp': ['Noto Serif JP', 'sans-serif'],
+        'm-plus-rounded': ['M PLUS Rounded 1c', 'sans-serif']
       }
     },
   },
