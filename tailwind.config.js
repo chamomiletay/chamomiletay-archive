@@ -12,7 +12,8 @@ module.exports = {
         'noto-serif-jp': ['Noto Serif JP', 'sans-serif'],
         'm-plus-rounded': ['M PLUS Rounded 1c', 'sans-serif'],
         'space-mono': ['Space Mono', 'monospace']
-      }
+      },
+      animation: {},
     },
   },
   plugins: [],
