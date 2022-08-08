@@ -18,7 +18,7 @@ const Header = () => {
       </div>
       
       <div>
-        <p className='font-nanum-gothic text-zinc-400 font-semibold'>Taylor Lee | Front-End Engineer | Illustrator </p>
+        <p className='font-nanum-gothic text-slate-400 font-semibold text-sm'>Taylor Lee | Front-End Engineer | Illustrator </p>
       </div>
 
     </div>
