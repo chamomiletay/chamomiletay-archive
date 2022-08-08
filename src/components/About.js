@@ -32,7 +32,7 @@ const About = () => {
 
       <div className='pb-8 px-4 mx-6 font-space-mono text-sm font-semibold text-sky-900'>
 
-        <h4 className='pb-6 text-lg font-semibold font-space-mono text-rose-400'>&#123; <span className='text-black italic text-rose-800'>Languages</span> &#125;</h4>
+        <h4 className='pb-6 text-lg font-semibold font-space-mono text-rose-400'>&#123; <span className='text-black italic text-rose-800'>Programming Languages</span> &#125;</h4>
 
         <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-200 shadow-md rounded-xl w-1/6 float-left'>
           React
