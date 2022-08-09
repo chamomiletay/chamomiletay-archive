@@ -6,6 +6,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {},
+      colors: {
+        'mint': '#e2ebdf',
+        'strawberry': '#F2D7D9',
+        'plum': '#d9d2e9'
+      },
       fontFamily: {
         'nanum-gothic': ['Nanum Gothic', 'sans-serif'],
         'noto-sans-jp': ['Noto Sans JP', 'sans-serif'],
