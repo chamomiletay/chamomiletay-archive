@@ -12,7 +12,7 @@ const About = () => {
 
 
   return (
-    <div className='px-20 pb-20 font-roboto text-lg italic font-bold text-white'>
+    <div className='px-32 pb-20 font-roboto text-lg italic font-bold text-white'>
 
       <div className='p-10 m-auto flex-auto items-center justify-center bg-mint shadow-lg rounded-xl'>
 
@@ -38,7 +38,7 @@ const About = () => {
 
       {/* My coding languages */}
 
-    <div className='p-10 m-auto mt-8 flex-auto items-center justify-center  bg-strawberry shadow-lg rounded-xl'>
+    <div className='p-6 m-auto mt-8 flex-auto items-center justify-center  bg-strawberry shadow-lg rounded-xl'>
 
       <div className='pb-8 px-4 mx-6 font-space-mono text-sm font-semibold text-sky-900'>
 
