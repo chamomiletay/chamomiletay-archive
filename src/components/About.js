@@ -2,7 +2,6 @@
 import React from 'react'
 import tayIcon from './images/taylor_icon.png'
 import './main.css'
-import reactIcon from './images/react.svg'
 
 const About = () => {
 

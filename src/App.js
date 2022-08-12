@@ -1,6 +1,6 @@
 //---- imports ----
 import Header from './components/Header';
-import { Routes, Route } from 'react-router-dom'
+// import { Routes, Route } from 'react-router-dom'
 import About from './components/About';
 import Contact from './components/Contact';
 import Projects from './components/Projects'
