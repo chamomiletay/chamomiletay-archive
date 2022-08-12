@@ -1,17 +1,10 @@
+//---- imports ----
 import React from 'react'
 import capsule1 from './images/capsule.gif'
 import petwork1 from './images/petwork.gif'
-import reactIcon from './images/react.svg'
-import pythonIcon from './images/python.svg'
-import djangoIcon from './images/django.svg'
-import tailwindIcon from './images/tailwind-css.svg'
-import javascriptIcon from './images/javascript.svg'
-import mongoIcon from './images/mongodb.svg'
 import toasty1 from './images/toasty.gif'
-import nodejsIcon from './images/nodejs.png'
 import chlorophyll from './images/chlorophyll.gif'
-import htmlIcon from './images/html.svg'
-import cssIcon from './images/css3.svg'
+
 
 const Projects = () => {
   return (

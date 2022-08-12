@@ -1,3 +1,4 @@
+//---- imports ----
 import React from 'react'
 import resume from './resources/Lee_Taylor_Resume.pdf'
 

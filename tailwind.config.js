@@ -11,7 +11,8 @@ module.exports = {
         'strawberry': '#F2D7D9',
         'plum': '#d9d2e9',
         'dusty-blue': '#E0F0F8',
-        'vanilla': '#FCF7ED'
+        'vanilla': '#FCF7ED',
+        'grape': '#948BA9'
       },
       fontFamily: {
         'nanum-gothic': ['Nanum Gothic', 'sans-serif'],
