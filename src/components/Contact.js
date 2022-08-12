@@ -1,4 +1,5 @@
 import React from 'react'
+import resume from './resources/Lee_Taylor_Resume.pdf'
 
 const Contact = () => {
   return (
@@ -43,6 +44,11 @@ const Contact = () => {
                 </p>
             </a>
 
+            <a href={resume} download='Lee, Taylor- Resume' target='_blank' rel='noopener noreferrer'>
+                <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block hover:bg-white'>
+                Resume
+                </p>
+            </a>
 
             <p className='pt-10 text-teal-600 font-roboto'>chamomile.tay@gmail.com</p>
 
