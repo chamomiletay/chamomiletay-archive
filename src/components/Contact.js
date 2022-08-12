@@ -14,8 +14,8 @@ const Contact = () => {
       <div>
 
         <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Interested in collabing?</span> &#125;</h3>
-            {/* <p className='pb-4 text-lg font-m-plus-rounded font-semibold italic text-slate-400'>湖にちわ。</p> */}
-        <p className='px-8 py-2 text-teal-600'>
+            
+        <p className='px-8 pt-2 pb-6 text-teal-600'>
             Let's connect! I look forward to being in touch with you. 
         </p>
 
@@ -25,18 +25,26 @@ const Contact = () => {
         
         <div className='pb-8 px-4 m-auto font-space-mono text-sm font-semibold text-sky-900 items-center justify-center flex-auto'>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block'>
-          LinkedIn
-        </p>
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block'>
-          Email
-        </p>
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block'>
-          Resume
-        </p>
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block'>
-          Github
-        </p>
+            <a href='https://www.linkedin.com/in/tay-lee/' target='_blank' rel='noopener noreferrer'>
+                <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block hover:bg-white'>
+            LinkedIn
+                </p>
+            </a>
+
+            {/* <a href='' target='_blank' rel='noopener noreferrer'>
+                <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block hover:bg-white'>
+                Resume
+                </p>
+            </a> */}
+
+            <a href='https://github.com/chamomiletay' target='_blank' rel='noopener noreferrer'>
+                <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block hover:bg-white'>
+                Github
+                </p>
+            </a>
+
+
+            <p className='pt-10 text-teal-600 font-roboto'>chamomile.tay@gmail.com</p>
 
         </div>
       </div>

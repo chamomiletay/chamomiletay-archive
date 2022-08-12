@@ -1,10 +1,6 @@
 //---- imports ----
 import React from 'react'
 import tayIcon from './images/taylor_icon.png'
-import linkedInLogo from './images/linkedin-logo.svg'
-import htmlIcon from './images/html-icon.png'
-import jsIcon from './images/js-icon.png'
-import cssIcon from './images/css-icon.png'
 import './main.css'
 
 
@@ -26,7 +22,10 @@ const About = () => {
           <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Hello!</span> &#125;</h3>
               {/* <p className='pb-4 text-lg font-m-plus-rounded font-semibold italic text-slate-400'>湖にちわ。</p> */}
           <p className='px-8 py-2 text-teal-600'>
-                " I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics. I take pride in quickly adapting to new environments, engaging in storytelling, and ideating warm and inviting interactive spaces while engaging my audience. My drive to curate more inclusive and accessible spaces is evident in every application I build. "
+                " My name is Taylor, and I have a passion for bright colors and storytelling. I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics.
+                <br/> 
+                <br/> 
+                I take pride in quickly adapting to new environments, engaging in storytelling, and ideating warm and inviting interactive spaces while engaging my audience. My drive to curate more inclusive and accessible spaces is evident in every application I build. "
           </p>
 
           {/* <a href='https://www.linkedin.com/in/tay-lee/' target="_blank" rel="noopener noreferrer">
