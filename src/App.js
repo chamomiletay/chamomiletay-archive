@@ -57,6 +57,10 @@ function App() {
       <Contact />
     </section>
 
+    <nav className='font-nanum-gothic text-grape font-semibold text-mg py-6'>
+          <a href='#about' className='hover:underline px-2'>Return to Top </a>
+        </nav>
+
       <Footer />
 
       {/* <div>
