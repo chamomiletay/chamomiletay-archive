@@ -41,11 +41,11 @@ const Projects = () => {
 
             <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
 
-            <img src={reactIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={djangoIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
-            <img src={pythonIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
-            <img src={tailwindIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
-            <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
+            <i class="devicon-react-original-wordmark"></i>
+            <i class="devicon-django-plain colored"></i>
+            <i class="devicon-python-plain-wordmark"></i>
+            <i class="devicon-tailwindcss-plain"></i>
+            <i class="devicon-javascript-plain"></i>
           
         </div>
       </div>
@@ -74,12 +74,18 @@ const Projects = () => {
           </p>
           
           <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
-            <img src={reactIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={mongoIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={nodejsIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={htmlIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-              <img src={cssIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
+
+            <i class="devicon-react-original-wordmark"></i>
+
+            <i class="devicon-javascript-plain"></i>
+
+            <i class="devicon-mongodb-plain-wordmark"></i>
+
+            <i class="devicon-nodejs-plain"></i>
+
+            <i class="devicon-html5-plain-wordmark"></i>
+
+            <i class="devicon-css3-plain-wordmark"></i>
           
           
         </div>
@@ -107,11 +113,11 @@ const Projects = () => {
           </p>
           
           <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
-            <img src={nodejsIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            <img src={mongoIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
+
+            <i class="devicon-nodejs-plain"></i>
+            <i class="devicon-javascript-plain"></i>
+            <i class="devicon-mongodb-plain-wordmark"></i>
             
-          
         </div>
         </div>
         </div>
@@ -137,9 +143,9 @@ const Projects = () => {
             </p>
               <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
 
-              <img src={htmlIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-              <img src={cssIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-              <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
+              <i class="devicon-javascript-plain"></i>
+              <i class="devicon-html5-plain-wordmark"></i>
+              <i class="devicon-css3-plain-wordmark"></i>
 
             
           </div>
