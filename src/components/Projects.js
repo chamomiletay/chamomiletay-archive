@@ -24,11 +24,11 @@ const Projects = () => {
           <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Capsule</span> &#125;</h3>
               <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
 
-                <a href='https://github.com/chamomiletay/capsule-frontend' target='_blank' rel='noopener noreferrer'>Frontend Repo</a>
+                <a href='https://github.com/chamomiletay/capsule-frontend' target='_blank' rel='noopener noreferrer' className='hover:underline'>Frontend Repo</a>
                 <span className='text-orange-100'> | </span>
-                <a href='https://github.com/chamomiletay/capsule-backend' target='_blank' rel='noopener noreferrer'>Backend Repo</a>
+                <a href='https://github.com/chamomiletay/capsule-backend' target='_blank' rel='noopener noreferrer' className='hover:underline'>Backend Repo</a>
                 <span className='text-orange-100'> | </span>
-                <a href='https://tubular-begonia-a87560.netlify.app/' target='_blank' rel='noopener noreferrer'>Deployed App</a>
+                <a href='https://tubular-begonia-a87560.netlify.app/' target='_blank' rel='noopener noreferrer' className='hover:underline'>Deployed App</a>
                 </p>
 
           <div className='inline-block m-auto pb-4'>
@@ -56,18 +56,18 @@ const Projects = () => {
         <div className='pb-14'>
           <h3 className='pt-14 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Petwork</span> &#125;</h3>
               <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
-                <a href='https://github.com/chamomiletay/petworkfrontend' target='_blank' rel='noopener noreferrer'>Frontend Repo</a>
+                <a href='https://github.com/chamomiletay/petworkfrontend' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Frontend Repo</a>
                 <span className='text-orange-100'> | </span>
-                <a href='https://github.com/chamomiletay/petworkbackend' target='_blank' rel='noopener noreferrer'>Backend Repo</a>
+                <a href='https://github.com/chamomiletay/petworkbackend' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Backend Repo</a>
                 <span className='text-orange-100'> | </span>
-                <a href='https://cheery-salmiakki-f8289b.netlify.app/' target='_blank' rel='noopener noreferrer'>Deployed App</a>
+                <a href='https://cheery-salmiakki-f8289b.netlify.app/' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Deployed App</a>
                 </p>
 
           <div className='inline-block m-auto pb-4'>
             <img src={petwork1} alt='Capsule project screenshot' className='h-96 rounded-xl drop-shadow-md'></img>
           </div>
 
-          <p className='px-8 pb-8 py-2 text-teal-600 italic'>
+          <p className='px-8 pb-8 py-2 text-sky-900 italic'>
                 " The pet (dog) parent networking app where users can create profiles to share information about their dogs, look up basic information about different dog breeds, and "love" their favorite breeds to save for later! "
           </p>
           
@@ -90,9 +90,9 @@ const Projects = () => {
         <div className='pb-14'>
           <h3 className='pt-14 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Toasty</span> &#125;</h3>
               <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
-                <a href='https://github.com/chamomiletay/toasty-app' target='_blank' rel='noopener noreferrer'>Github Repo</a>
+                <a href='https://github.com/chamomiletay/toasty-app' target='_blank' rel='noopener noreferrer' className='hover:underline'>Github Repo</a>
                 <span className='text-orange-100'> | </span>
-                <a href='https://toaasty-app.herokuapp.com/journal/index' target='_blank' rel='noopener noreferrer'>Deployed App</a>
+                <a href='https://toaasty-app.herokuapp.com/journal/index' target='_blank' rel='noopener noreferrer' className='hover:underline'>Deployed App</a>
                 </p>
 
           <div className='inline-block m-auto pb-4'>
@@ -119,16 +119,16 @@ const Projects = () => {
           <div className='pb-14'>
             <h3 className='pt-14 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Chlorophyll</span> &#125;</h3>
                 <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
-                  <a href='https://github.com/chamomiletay/chlorophyll' target='_blank' rel='noopener noreferrer'>Github Repo</a>
+                  <a href='https://github.com/chamomiletay/chlorophyll' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Github Repo</a>
                   <span className='text-orange-100'> | </span>
-                  <a href='https://chamomiletay.github.io/chlorophyll/' target='_blank' rel='noopener noreferrer'>Deployed App</a>
+                  <a href='https://chamomiletay.github.io/chlorophyll/' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Deployed App</a>
                   </p>
 
             <div className='inline-block m-auto pb-4'>
               <img src={chlorophyll} alt='Capsule project screenshot' className='h-96 rounded-xl drop-shadow-md'></img>
             </div>
 
-            <p className='px-8 pb-8 py-2 text-teal-600 italic'>
+            <p className='px-8 pb-8 py-2 text-sky-900 italic'>
                   " Have you ever wanted to grow your own plant, but lack a green thumb? Look no further than this virtual plant simulator. Grow your own plant --- if you can solve some puzzles! "
             </p>
             
