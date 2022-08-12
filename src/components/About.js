@@ -21,7 +21,7 @@ const About = () => {
 
           <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Hello!</span> &#125;</h3>
               {/* <p className='pb-4 text-lg font-m-plus-rounded font-semibold italic text-slate-400'>湖にちわ。</p> */}
-          <p className='px-8 py-2 text-teal-600'>
+          <p className='px-8 py-2 text-teal-700'>
                 " My name is Taylor, and I have a passion for bright colors and storytelling. I'm a detail-oriented front-end engineer and designer that is passionate about cozy aesthetics.
                 <br/> 
                 <br/> 

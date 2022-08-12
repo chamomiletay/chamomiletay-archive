@@ -15,7 +15,7 @@ const Projects = () => {
         {/* capsule project */}
         <div>
           <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Capsule</span> &#125;</h3>
-              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
+              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>
 
                 <a href='https://github.com/chamomiletay/capsule-frontend' target='_blank' rel='noopener noreferrer' className='hover:underline'>Frontend Repo</a>
                 <span className='text-orange-100'> | </span>
@@ -28,11 +28,11 @@ const Projects = () => {
             <img src={capsule1} alt='Capsule project screenshot' className='h-96 rounded-xl drop-shadow-md'></img>
           </div>
 
-          <p className='px-8 py-2 pb-6 text-teal-600 italic'>
+          <p className='px-8 py-2 pb-6 text-teal-800 italic'>
                 " The app that cuts your routine in half and promotes sustainability by generating new outfits based on your closet! "
           </p>
 
-            <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
+            <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
 
             <i class="devicon-react-original-wordmark"></i>
             <i class="devicon-django-plain colored"></i>
@@ -50,7 +50,7 @@ const Projects = () => {
       <div className='my-10 m-auto flex-auto items-center justify-center bg-plum shadow-lg rounded-xl'>
         <div className='pb-14'>
           <h3 className='pt-14 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Petwork</span> &#125;</h3>
-              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
+              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>
                 <a href='https://github.com/chamomiletay/petworkfrontend' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Frontend Repo</a>
                 <span className='text-orange-100'> | </span>
                 <a href='https://github.com/chamomiletay/petworkbackend' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Backend Repo</a>
@@ -66,7 +66,7 @@ const Projects = () => {
                 " The pet (dog) parent networking app where users can create profiles to share information about their dogs, look up basic information about different dog breeds, and "love" their favorite breeds to save for later! "
           </p>
           
-          <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
+          <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
 
             <i class="devicon-react-original-wordmark"></i>
 
@@ -101,7 +101,7 @@ const Projects = () => {
             <img src={toasty1} alt='Capsule project screenshot' className='h-96 rounded-xl drop-shadow-md'></img>
           </div>
 
-          <p className='px-8 pb-8 py-2 text-teal-600 italic'>
+          <p className='px-8 pb-8 py-2 text-teal-800 italic text-semibold'>
                 " Record your days and track your mood all in one place. Toasty is intended to cultivate a cozy environment for journaling and keeping record of your day. "
           </p>
           
@@ -121,7 +121,7 @@ const Projects = () => {
         <div className='my-10 m-auto flex-auto items-center justify-center bg-plum shadow-lg rounded-xl'>
           <div className='pb-14'>
             <h3 className='pt-14 pb-8 text-2xl font-semibold font-space-mono text-orange-100 drop-shadow-md'>&#123; <span className='text-white italic drop-shadow-md'>Chlorophyll</span> &#125;</h3>
-                <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>
+                <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>
                   <a href='https://github.com/chamomiletay/chlorophyll' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Github Repo</a>
                   <span className='text-orange-100'> | </span>
                   <a href='https://chamomiletay.github.io/chlorophyll/' target='_blank' rel='noopener noreferrer' className='hover:underline hover:text-white'>Deployed App</a>
@@ -134,7 +134,7 @@ const Projects = () => {
             <p className='px-8 pb-8 py-2 text-sky-900 italic'>
                   " Have you ever wanted to grow your own plant, but lack a green thumb? Look no further than this virtual plant simulator. Grow your own plant --- if you can solve some puzzles! "
             </p>
-              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
+              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
 
               <i class="devicon-javascript-plain"></i>
               <i class="devicon-html5-plain-wordmark"></i>
