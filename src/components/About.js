@@ -2,7 +2,7 @@
 import React from 'react'
 import tayIcon from './images/taylor_icon.png'
 import './main.css'
-
+import reactIcon from './images/react.svg'
 
 const About = () => {
 
@@ -41,23 +41,21 @@ const About = () => {
 
       <div className='pb-8 px-4 mx-6 font-space-mono text-sm font-semibold text-sky-900'>
 
-        <h4 className='pb-6 text-lg font-semibold font-space-mono text-orange-100'>&#123; <span className='text-white italic drop-shadow-md'>Programming Languages</span> &#125;</h4>
-              
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          Javascript
-        </p>
+        <h4 className='pb-12 pt-4 text-xl font-semibold font-space-mono text-orange-100'>&#123; <span className='text-white italic drop-shadow-md'>Programming Languages</span> &#125;</h4>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          Python
-        </p>
+        
+        <i class="devicon-nodejs-plain"></i>
+       
+        <i class="devicon-react-original-wordmark"></i>
+        
+        <i class="devicon-python-plain-wordmark"></i>
+        
+        <i class="devicon-javascript-plain"></i>
+        
+        <i class="devicon-html5-plain-wordmark"></i>
+        
+        <i class="devicon-css3-plain-wordmark"></i>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          HTML
-        </p>
-
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          CSS
-        </p>
 
       </div>
 
@@ -66,29 +64,36 @@ const About = () => {
             
       <div className='pt-2 pb-8  px-4 m-4 font-space-mono text-sm font-semibold text-sky-900'>
 
-        <h4 className='pb-6 text-lg font-semibold font-space-mono text-rose-400'>&#123; <span className='text-white italic drop-shadow-md'>Libraries &#38; Frameworks</span> &#125;</h4>
+        <h4 className='pb-6 text-xl font-semibold font-space-mono text-rose-400'>&#123; <span className='text-white italic drop-shadow-md'>Libraries &#38; Frameworks</span> &#125;</h4>
+        
+ 
+        <i class="devicon-express-original"></i>
+          
+        <i class="devicon-jquery-plain-wordmark"></i>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          Express.js
-        </p>
-              
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          jQuery
-        </p>
+        <i class="devicon-django-plain colored"></i>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-            Bootstrap
-        </p>
+        <i class="devicon-bootstrap-plain-wordmark"></i>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          Tailwind
-        </p>
+        <i class="devicon-tailwindcss-plain"></i>
 
-        <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 float-left'>
-          Django
-        </p>
 
       </div>
+
+      {/* Databases */}
+            
+      <div className='pt-2 pb-8  px-4 m-4 font-space-mono text-sm font-semibold text-sky-900'>
+
+        <h4 className='pb-6 text-xl font-semibold font-space-mono text-orange-100'>&#123; <span className='text-white italic drop-shadow-md'>Databases</span> &#125;</h4>
+        
+
+        <i class="devicon-mongodb-plain-wordmark"></i>
+        
+        <i class="devicon-postgresql-plain-wordmark"></i>
+          
+
+      </div>
+     
     </div>
     </div>
 

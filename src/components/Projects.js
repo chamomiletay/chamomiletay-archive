@@ -35,10 +35,12 @@ const Projects = () => {
             <img src={capsule1} alt='Capsule project screenshot' className='h-96 rounded-xl drop-shadow-md'></img>
           </div>
 
-          <p className='px-8 py-2 text-teal-600 italic'>
+          <p className='px-8 py-2 pb-6 text-teal-600 italic'>
                 " The app that cuts your routine in half and promotes sustainability by generating new outfits based on your closet! "
           </p>
-          
+
+            <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
+
             <img src={reactIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={djangoIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
             <img src={pythonIcon} alt='ReactJS logo' className='h-14 inline-block px-2 my-4'></img>
@@ -71,13 +73,14 @@ const Projects = () => {
                 " The pet (dog) parent networking app where users can create profiles to share information about their dogs, look up basic information about different dog breeds, and "love" their favorite breeds to save for later! "
           </p>
           
+          <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
             <img src={reactIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={mongoIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={nodejsIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={htmlIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
               <img src={cssIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
-            
+          
           
         </div>
         </div>
@@ -103,6 +106,7 @@ const Projects = () => {
                 " Record your days and track your mood all in one place. Toasty is intended to cultivate a cozy environment for journaling and keeping record of your day. "
           </p>
           
+          <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
             <img src={nodejsIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
             <img src={mongoIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
@@ -131,7 +135,8 @@ const Projects = () => {
             <p className='px-8 pb-8 py-2 text-sky-900 italic'>
                   " Have you ever wanted to grow your own plant, but lack a green thumb? Look no further than this virtual plant simulator. Grow your own plant --- if you can solve some puzzles! "
             </p>
-            
+              <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
+
               <img src={htmlIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
               <img src={cssIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
               <img src={javascriptIcon} alt='ReactJS logo' className='h-14 inline-block px-2'></img>
