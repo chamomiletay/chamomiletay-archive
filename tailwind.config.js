@@ -9,7 +9,9 @@ module.exports = {
       colors: {
         'mint': '#e2ebdf',
         'strawberry': '#F2D7D9',
-        'plum': '#d9d2e9'
+        'plum': '#d9d2e9',
+        'dusty-blue': '#E0F0F8',
+        'vanilla': '#FCF7ED'
       },
       fontFamily: {
         'nanum-gothic': ['Nanum Gothic', 'sans-serif'],
