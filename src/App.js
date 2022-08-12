@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Projects from './components/Projects'
 import './App.css';
 import './components/main.css'
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -14,9 +15,18 @@ function App() {
     <div className='bg-slate-50'>
 
       <Header />
+
       <About />
+
+        <div className='m-auto my-10 border-2 border-slate-300 rounded-2xl h-6 w-6 flex items-center justify-center bg-slate-100 animate-pulse'></div>
+
       <Projects />
+
+        <div className='m-auto my-10 border-2 border-slate-300 rounded-2xl h-6 w-6 flex items-center justify-center bg-slate-100 animate-pulse'></div>
+
       <Contact />
+      
+      <Footer />
 
       <div>
         <Routes>

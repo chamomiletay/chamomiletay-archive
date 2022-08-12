@@ -12,7 +12,7 @@ const About = () => {
 
 
   return (
-    <div className='px-32 pb-20 font-roboto text-lg italic font-bold text-white'>
+    <div className='px-32 font-roboto text-lg italic font-bold text-white'>
 
       <div className='p-10 m-auto flex-auto items-center justify-center bg-mint shadow-lg rounded-xl'>
 
