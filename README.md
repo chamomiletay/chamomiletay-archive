@@ -15,4 +15,4 @@
 [![Taylor's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamomiletay&repo=capsule-backend&theme=rose_pine)](https://github.com/chamomiletay/capsule-backend)
 
 
-#### Connect with me on [LinkedIn](https://www.linkedin.com/in/tay-lee/) or check out my [portfolio!](https://chamomiletay.com)
+#### Connect with me on [LinkedIn](https://www.linkedin.com/in/tay-lee/) or check out my [portfolio!](https://chamomiletay.netlify.app)
