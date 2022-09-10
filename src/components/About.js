@@ -44,6 +44,11 @@ const About = () => {
 
         
         <i class="devicon-nodejs-plain"></i>
+
+        {/* tooltip! - js */}
+          <div className='relative block'>
+            <span className='absolute z-0 transition-opacity duration-150 opacity-0 hover:opacity-100  text-xs rounded-xl py-2 px-2 bg-slate-200 text-center'>Javascript</span>
+          </div>
        
         <i class="devicon-react-original-wordmark"></i>
         
