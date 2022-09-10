@@ -29,7 +29,7 @@ const Projects = () => {
           </div>
 
           <p className='px-8 py-2 pb-6 text-teal-800 italic'>
-                " The app that cuts your routine in half and promotes sustainability by generating new outfits based on your closet! "
+          A responsive wardrobe-logging application that assists users in building outfits and promoting sustainability by using existing pieces in their closet.
           </p>
 
             <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
@@ -63,7 +63,7 @@ const Projects = () => {
           </div>
 
           <p className='px-8 pb-8 py-2 text-sky-900 italic'>
-                " The pet (dog) parent networking app where users can create profiles to share information about their dogs, look up basic information about different dog breeds, and "love" their favorite breeds to save for later! "
+          A pet-parent networking site where users can find breed-specific care information and generate profiles for their furry friends.
           </p>
           
           <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
@@ -102,7 +102,7 @@ const Projects = () => {
           </div>
 
           <p className='px-8 pb-8 py-2 text-teal-800 italic text-semibold'>
-                " Record your days and track your mood all in one place. Toasty is intended to cultivate a cozy environment for journaling and keeping record of your day. "
+                Record your days and track your mood all in one place. Toasty is intended to cultivate a cozy environment for journaling and keeping record of your day.
           </p>
           
           <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-400 drop-shadow-sm'>Technologies Used</p>
@@ -132,7 +132,7 @@ const Projects = () => {
             </div>
 
             <p className='px-8 pb-8 py-2 text-sky-900 italic'>
-                  " Have you ever wanted to grow your own plant, but lack a green thumb? Look no further than this virtual plant simulator. Grow your own plant --- if you can solve some puzzles! "
+            An HTML-based virtual plant simulator inspired by the game “Spaceman”, Chlorophyll references its core mechanics and adds additional functionality for responsiveness and accessibility.
             </p>
               <p className='pb-4 text-lg font-m-plus-rounded font-semibold text-slate-500 drop-shadow-sm'>Technologies Used</p>
 
