@@ -8,11 +8,14 @@ module.exports = {
       backgroundImage: {},
       colors: {
         'mint': '#D5DED2',
-        'strawberry': '#F2D7D9',
+        'strawberry': '#FCE7E8',
         'plum': '#d9d2e9',
         'dusty-blue': '#CDE1EB',
         'vanilla': '#FCF7ED',
-        'grape': '#948BA9'
+        'grape': '#948BA9',
+        'beige': '#FBF4ED',
+        'bread': '#D8C4B9',
+        'pale-blue': '#F3F7FA'
       },
       fontFamily: {
         'nanum-gothic': ['Nanum Gothic', 'sans-serif'],
