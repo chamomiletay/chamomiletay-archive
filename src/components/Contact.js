@@ -41,7 +41,7 @@ const Contact = () => {
                 </p>
             </a>
 
-            <a href={resume} download='Lee, Taylor- Resume' target='_blank' rel='noopener noreferrer'>
+            <a href={resume} download='Lee_Taylor_Resume' target='_blank' rel='noopener noreferrer'>
                 <p className='p-2 mx-2 border-2 border-blue-300 bg-blue-100 shadow-md rounded-xl w-1/6 inline-block hover:bg-white'>
                 Resume
                 </p>
