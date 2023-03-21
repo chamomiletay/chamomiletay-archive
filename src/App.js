@@ -29,8 +29,8 @@ function App() {
 
       <section id='about'>
 
-        <h3 className='pt-4 pb-8 text-2xl font-semibold font-space-mono text-slate-500 italic drop-shadow-md'>
-        Meet the Developer
+        <h3 className='pt-4 pb-8 text-2xl font-semibold font-playfair-display text-bread italic drop-shadow-md'>
+        meet the developer
         </h3>
 
         <About />

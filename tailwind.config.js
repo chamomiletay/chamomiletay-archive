@@ -23,7 +23,8 @@ module.exports = {
         'noto-serif-jp': ['Noto Serif JP', 'sans-serif'],
         'm-plus-rounded': ['M PLUS Rounded 1c', 'sans-serif'],
         'space-mono': ['Space Mono', 'monospace'],
-        'roboto': ['Roboto', 'sans-serif']
+        'roboto': ['Roboto', 'sans-serif'],
+        'playfair-display': ['Playfair Display', 'serif']
       },
       animation: {},
     },
