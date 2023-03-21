@@ -1,6 +1,6 @@
 //---- imports ----
 import React from 'react'
-import tayIcon from './images/test.png'
+import tayIcon from './images/tay_profile.png'
 import './main.css'
 
 const About = () => {
